@@ -37,7 +37,11 @@ Scanner (for user input)
 2. Remove Vehicle
 3. Display Parking Status
 4. Exit
+
 Enter choice: 1
+
 Enter Vehicle Number: AP1234
+
 Enter Vehicle Type (Car/Bike): Car
+
 Vehicle AP1234 parked at slot 1
