@@ -1,6 +1,6 @@
-#🚗 Car Parking Management System
+## 🚗 Car Parking Management System
 
-#📌 Project Overview
+## 📌 Project Overview
 
 The Car Parking Management System is a simple Java application that manages parking slots for vehicles.
 It allows users to:
@@ -13,7 +13,7 @@ Display the current parking lot status
 
 This project demonstrates Object-Oriented Programming (OOP), Collections Framework, and File Handling/Date-Time API in Java.
 
-##🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Java SE 8+
 
@@ -23,7 +23,7 @@ Java Time API (LocalDateTime, Duration)
 
 Scanner (for user input)
 
-##📖 Features
+## 📖 Features
 
 ✅ Park a vehicle (assigns first available slot)
 ✅ Remove a vehicle (calculates fee based on hours parked)
@@ -31,7 +31,7 @@ Scanner (for user input)
 ✅ Handles edge cases (full lot, invalid slot removal)
 ✅ Easily extendable (different rates for Car/Bike, database integration, GUI with JavaFX)
 
-##🖥️ Sample Output
+## 🖥️ Sample Output
 === Car Parking Management System ===
 1. Park Vehicle
 2. Remove Vehicle
